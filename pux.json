@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kyukey/pux/releases/download/v0.1.0/pux_0.1.0_windows_amd64.zip",
+            "bin": [
+                "pux.exe"
+            ],
+            "hash": "29130b8ec35e798e90cf33e75b2ab2e5d02890b87c7c91d8818f2129f0392e67"
+        },
+        "arm64": {
+            "url": "https://github.com/kyukey/pux/releases/download/v0.1.0/pux_0.1.0_windows_arm64.zip",
+            "bin": [
+                "pux.exe"
+            ],
+            "hash": "046e79bc8c0a7547eae72446d046582d0098343c39f16bd4e5f50d32a5cfea79"
+        }
+    },
+    "homepage": "https://github.com/kyukey/pux",
+    "license": "Apache-2.0",
+    "description": "Save commands, run them by name"
+}
