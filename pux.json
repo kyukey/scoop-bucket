@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kyukey/pux/releases/download/v0.1.1/pux_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/kyukey/pux/releases/download/v0.1.2/pux_0.1.2_windows_amd64.zip",
             "bin": [
                 "pux.exe"
             ],
-            "hash": "fbf3cb09500c47532b841db7adca6925d5cb9c0cec2b9d1416c45c254ab6d91f"
+            "hash": "099b369ca5b5e59650b92349cdf2ac42f29abd70a0981b14eca72585a408f9cc"
         },
         "arm64": {
-            "url": "https://github.com/kyukey/pux/releases/download/v0.1.1/pux_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/kyukey/pux/releases/download/v0.1.2/pux_0.1.2_windows_arm64.zip",
             "bin": [
                 "pux.exe"
             ],
-            "hash": "83b1cf91295442e9c676d26ca62f02534a4746b3b2e9c28a2a90f0b023f92bb4"
+            "hash": "54d2cddb0d8df300e3e32e2a0b27209410d5b8336b1f44aecd2aa01a342a572f"
         }
     },
     "homepage": "https://github.com/kyukey/pux",
